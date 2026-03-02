@@ -1,0 +1,7 @@
+pub   ed25519 2020-11-25 [SC]
+      14E7 E931 1B04 B86E 8A38  8647 C82A DC58 75F1 EEEA
+uid           [ultimate] Carlos Andrés Planchón Prestes <carlosandresplanchonprestes@gmail.com>
+uid           [ultimate] Carlos Andrés Planchón Prestes <carlosplanchon@cognitialabs.com>
+sub   cv25519 2020-11-25 [E]
+sub   ed25519 2021-01-04 [SA]
+
