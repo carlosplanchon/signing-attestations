@@ -4,11 +4,11 @@ This repository publicly binds my OpenPGP (GPG) signing key to my Uruguayan eID 
 
 ## What’s inside
 
-- `openpgp/carlos_pubkey.asc` — my public OpenPGP key
-- `openpgp/fingerprint.txt` — key fingerprint
-- `openpgp/pubkey.sha256` — SHA-256 of the public key file (integrity check)
-- `attestations/key-binding.md` — human-readable declaration
-- `attestations/key-binding-firmado.pdf` — the same declaration as a PDF **digitally signed with my Uruguayan eID**
+- `openpgp/carlos_pubkey.asc` - my public OpenPGP key
+- `openpgp/fingerprint.txt` - key fingerprint
+- `openpgp/pubkey.sha256` - SHA-256 of the public key file (integrity check)
+- `attestations/key-binding.md` - human-readable declaration
+- `attestations/key-binding-firmado.pdf` - the same declaration as a PDF **digitally signed with my Uruguayan eID**
 
 ## Verify (Git/GPG)
 
