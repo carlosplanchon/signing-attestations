@@ -17,7 +17,7 @@ Verify the signed tag:
 ```bash
 git fetch --tags
 git tag -v v1
-````
+```
 
 Verify the last commit signature:
 
@@ -68,3 +68,11 @@ This repository is provided for transparency and technical verification purposes
 - It does **not** constitute notarial certification (“fe pública notarial”), legal advice, or a guarantee of legal validity in any specific jurisdiction.
 - A valid OpenPGP signature proves that a given Git object was signed by a corresponding private key and that the signed content has not been modified.
 - The Uruguay eID–signed PDF attests to the identity binding stated in the document, but it does not replace any formal notarial/legal procedure that may be required for contracts or other legal acts.
+
+## Descargo (en español):
+
+Este repositorio se publica únicamente con fines de transparencia y verificación técnica.
+
+- **No** constituye certificación notarial (“fe pública”), asesoramiento legal, ni garantiza validez jurídica para un caso o jurisdicción específica.
+- La firma OpenPGP (GPG) acredita técnicamente la integridad del objeto firmado y que fue firmado por la clave correspondiente, pero **no** equivale por sí sola a una intervención notarial.
+- El PDF firmado con cédula respalda la declaración de vinculación allí contenida, sin sustituir trámites o formalidades legales/notariales que puedan corresponder.
