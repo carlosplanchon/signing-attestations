@@ -57,6 +57,11 @@ pdfsig attestations/key-binding-firmado.pdf
 
 Or use a trusted PDF signature validator compatible with Uruguay eID signatures.
 
+## Versioning
+
+* `v1`: key binding (PDF signed with Uruguay eID)
+* `v2`: scope clarification note (GPG-signed)
+
 ## Notes
 
 * If I ever rotate my OpenPGP key, a new attestation will be added and tagged (e.g. `v2`), keeping previous versions intact.
